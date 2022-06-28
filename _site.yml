@@ -1,0 +1,26 @@
+name: "DS in A"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "DS in A"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Week 0: Building the car"
+      icon: fa-user 
+      href: week_0.html
+    - text: "Week 1: Programming bootcamp"
+      icon: fa-rss
+      href: week_1.html
+    - text: "Week 2: Statistics & ML bootcamp"
+      icon: fa-rss
+      href: week_2.html
+  right:
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/jlgrons/CELEHS-DSinA       
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

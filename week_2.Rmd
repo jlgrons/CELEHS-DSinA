@@ -1,0 +1,48 @@
+---
+title: "Week 2: Statistics & ML bootcamp"
+---
+
+---
+title: "Week 1: Programming bootcamp"
+---
+
+
+## Day 1
+
+* Statistics
+
+* Machine Learning
+
+* Programming
+
+## Day 2
+
+* Statistics
+
+* Machine Learning
+
+* Programming
+
+## Day 3
+
+* Statistics
+
+* Machine Learning
+
+* Programming
+
+## Day 4
+
+* Statistics
+
+* Machine Learning
+
+* Programming
+
+## Day 5
+
+* Statistics
+
+* Machine Learning
+
+* Programming
