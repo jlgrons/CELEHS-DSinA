@@ -6,6 +6,7 @@ title: "Week 2: Statistics & ML bootcamp"
 title: "Week 1: Programming bootcamp"
 ---
 
+---
 
 ## Day 1
 

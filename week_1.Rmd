@@ -4,10 +4,9 @@ title: "Week 1: Programming bootcamp"
 
 ---
 
-
 ## Day 1
 
-* [Introduction to Python](Week_0_Materials/python_intro.ipynb)
+* [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
 
 ## Day 2
 
