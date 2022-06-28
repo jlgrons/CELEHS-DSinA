@@ -1,5 +1,5 @@
 ---
-title: "Data Science in Action (DS in A)"
+title: "Data Science in Action"
 subtitle: "Machine Learning for Self-Driving Cars"
 subsubtitle: "Harvard CELEHS, 2022"
 ---

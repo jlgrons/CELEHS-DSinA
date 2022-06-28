@@ -1,7 +1,7 @@
 name: "DS in A"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "DS in A"                             # CHANGE HERE 
+  title: " "                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
