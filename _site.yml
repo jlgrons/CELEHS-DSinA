@@ -7,15 +7,18 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Week 0: Building the car"
+    - text: "Week 0: Car Building"
       icon: fa-user 
       href: week_0.html
-    - text: "Week 1: Programming bootcamp"
+    - text: "Week 1: Programming"
       icon: fa-rss
       href: week_1.html
-    - text: "Week 2: Statistics & ML bootcamp"
+    - text: "Week 2: Statistics & ML"
       icon: fa-rss
       href: week_2.html
+    - text: "Resources"
+      icon: fa-rss
+      href: resources.html
   right:
     - text: "GitHub"
       icon: fa-github
