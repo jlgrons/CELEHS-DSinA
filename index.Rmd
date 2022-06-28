@@ -9,15 +9,14 @@ subsubtitle: "Harvard CELEHS, 2022"
 
 Welcome to DS in A 2022! 
 
-All program materials will be added to this website.
+All program materials will be added to this website.  Additional information about the program can be found [here](https://celehs.hms.harvard.edu/summer_camp.html).
  
  
-  <br>
   
    <br>
    
   ******
 
- We are very grateful for support from multiple sponsors!
+ We are very grateful for support from multiple sponsors.
  
 ![](images/support.png){width=30%}
