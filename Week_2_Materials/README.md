@@ -1,1 +1,1 @@
-# Website for CELEHS Data Science in Action. 
+# Week 2 Materials for CELEHS Data Science in Action.
