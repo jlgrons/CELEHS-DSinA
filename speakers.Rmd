@@ -1,0 +1,23 @@
+---
+title: "Speakers"
+---
+
+---
+
+We are very fortunate to have lunchtime speakers join us to discuss their path to data science.
+
+
+## Week 1
+
+* July 5: [Heather Mattie](https://www.hsph.harvard.edu/heather-mattie/)  (Host: Jesse)
+* July 6: TBD
+* July 7: [Benjamin Sanchez-Langeling](https://www.linkedin.com/in/benjamin-sanchez-lengeling-6879a68a) (Host: Aaron)
+* July 8: [Hui Wang](https://theorg.com/org/paypal/org-chart/hui-wang) (Host: Aaron)
+
+## Week 2
+
+* July 11: [Leo Anthony Celi](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) (Host: Aaron)
+* July 12: [Marzyeh Ghassemi](https://healthyml.org) (Host: Aaron)
+* July 13: [Melody Goodman](https://publichealth.nyu.edu/faculty/melody-goodman) (Host: Jesse)
+* July 14: [Chiara Poletti](https://www.linkedin.com/in/chiarapoletti) (Host: Nitin)
+* July 15: [Tanya Garcia](https://tpgarcia.github.io) (Host: Jesse)

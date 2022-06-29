@@ -8,14 +8,17 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "Week 0: Car Building"
-      icon: fa-user 
+      icon: fa-car 
       href: week_0.html
     - text: "Week 1: Programming"
-      icon: fa-rss
+      icon: fa-mouse-pointer
       href: week_1.html
     - text: "Week 2: Statistics & ML"
-      icon: fa-rss
+      icon: fa-dice
       href: week_2.html
+    - text: "Speakers"
+      icon: fa-user
+      href: speakers.html
     - text: "Resources"
       icon: fa-rss
       href: resources.html

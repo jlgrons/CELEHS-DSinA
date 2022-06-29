@@ -9,7 +9,9 @@ subsubtitle: "Harvard CELEHS, 2022"
 
 Welcome to Data Science in Action 2022!  
 
-All program materials will be added to this website. 
+All program materials will be added to this website.
+
+Get to know your instructors [here](https://celehs.hms.harvard.edu/camp_instructors.html). 
 
 Additional information about the program can be found [here](https://celehs.hms.harvard.edu/summer_camp.html).
  
@@ -21,4 +23,4 @@ Additional information about the program can be found [here](https://celehs.hms.
 
  We are very grateful for support from multiple sponsors.
  
-![](images/support.png){width=30%}
+![](images/support.png){width=40%}
