@@ -7,19 +7,16 @@ title: "Week 1: Programming in Python"
 ## Day 1
 
 * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
+* [Additional Exercises 1:Conditionals](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb)
 
 ## Day 2
 
-* 
+* [Additional Exercises 2:Loops and Iterators](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb)
 
 ## Day 3
 
-* 
+* [Additional Exercises 3:Functions](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb)
 
 ## Day 4
-
-* 
-
-## Day 5
 
 * 
