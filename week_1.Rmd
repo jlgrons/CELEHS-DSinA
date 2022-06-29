@@ -7,6 +7,7 @@ title: "Week 1: Programming in Python"
 ## Day 1
 
 * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
+
 * [Additional Exercises 1:Conditionals](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb)
 
 ## Day 2
