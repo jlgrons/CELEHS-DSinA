@@ -2,9 +2,6 @@
 title: "Week 2: Statistics & ML bootcamp"
 ---
 
----
-title: "Week 1: Programming bootcamp"
----
 
 ---
 
@@ -18,6 +15,8 @@ title: "Week 1: Programming bootcamp"
   * [Exploratory Data Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/EDA.ipynb)
   * Neural Networks
 
+<br>
+
 ## Day 2
 
 * Statistics
@@ -26,8 +25,9 @@ title: "Week 1: Programming bootcamp"
 
 * Programming
   * Logistic Regression
-  * Convolutional Neural Networks
+  * Convolutional Neural Networks I
 
+<br>
 
 ## Day 3
 
@@ -36,6 +36,10 @@ title: "Week 1: Programming bootcamp"
 * Machine Learning
 
 * Programming
+  * Principal Component Analysis
+  * [Convolutional Neural Networks II](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/Intro to CNN.ipynb)
+
+<br>
 
 ## Day 4
 
@@ -44,6 +48,10 @@ title: "Week 1: Programming bootcamp"
 * Machine Learning
 
 * Programming
+  * Model Evaluation
+  * Transfer Learning with Convolutional Neural Networks
+
+<br>
 
 ## Day 5
 
@@ -52,3 +60,9 @@ title: "Week 1: Programming bootcamp"
 * Machine Learning
 
 * Programming
+  * Chest X-ray Classification
+  
+<br>  
+  
+  
+  
