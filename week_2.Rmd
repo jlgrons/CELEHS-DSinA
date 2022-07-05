@@ -21,8 +21,8 @@ output:
 * Machine Learning
 
 * Programming
-  * [Exploratory Data Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/EDA.ipynb)
-  * Neural Networks
+  * [Exploratory Data Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/EDA.ipynb)
+  * [Neural Networks](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_neural_networks.ipynb)
 
 <br>
 
@@ -33,8 +33,8 @@ output:
 * Machine Learning
 
 * Programming
-  * Logistic Regression
-  * Convolutional Neural Networks I
+  * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb)
+  * [Convolutional Neural Networks I](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN.ipynb)
 
 <br>
 
@@ -46,7 +46,7 @@ output:
 
 * Programming
   * Principal Component Analysis
-  * [Convolutional Neural Networks II](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/Intro to CNN.ipynb)
+  * Convolutional Neural Networks II
 
 <br>
 
