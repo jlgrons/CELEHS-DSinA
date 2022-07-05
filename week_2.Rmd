@@ -34,8 +34,7 @@ output:
 
 * Programming
   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb)
-  * [Convolutional Neural Networks I](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN.ipynb)
-
+  * Convolutional Neural Networks I
 <br>
 
 ## Day 3
@@ -46,7 +45,7 @@ output:
 
 * Programming
   * Principal Component Analysis
-  * Convolutional Neural Networks II
+  * [Convolutional Neural Networks II](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN_II.ipynb)
 
 <br>
 
