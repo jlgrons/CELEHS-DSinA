@@ -1,25 +1,38 @@
 ---
-title: "Week 1: Programming bootcamp"
+title: "Week 1: Programming in Python"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+    theme: yeti
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
 ---
 
 ---
 
-## Day 1
+## Day 1 
 
 * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
 
+* [Additional Exercises 1: Conditionals](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb)
+
+<br>
+
 ## Day 2
 
-* 
+* [Additional Exercises 2: Loops and Iterators](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb)
+
+<br>
 
 ## Day 3
 
-* 
+* [Additional Exercises 3: Functions](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb)
+
+<br>
 
 ## Day 4
-
-* 
-
-## Day 5
 
 * 
