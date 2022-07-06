@@ -10,6 +10,7 @@ We are very fortunate to have lunchtime speakers join us to discuss their path t
 ## Week 1
 
 * July 5: [Heather Mattie](https://www.hsph.harvard.edu/heather-mattie/)  (Host: Jesse)
+  * [Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/H_Mattie_Slides.pdf)
   * [Algorithmic bias paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875681/)
 * July 6: [Swami Vaithianathasamy](https://www.linkedin.com/in/swaminathan-v-2b71332) (Host: Nitin)
 * July 7: [Benjamin Sanchez-Langeling](https://www.linkedin.com/in/benjamin-sanchez-lengeling-6879a68a) (Host: Aaron)
