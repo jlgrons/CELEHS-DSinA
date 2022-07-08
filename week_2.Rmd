@@ -34,7 +34,7 @@ output:
 
 * Programming
   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb)
-  * Convolutional Neural Networks I
+  * [Convolutional Neural Networks I](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_CNN.ipynb)
 <br>
 
 ## Day 3
@@ -44,7 +44,7 @@ output:
 * Machine Learning
 
 * Programming
-  * Principal Component Analysis
+  * [Principal Component Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb)
   * [Convolutional Neural Networks II](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN_II.ipynb)
 
 <br>
@@ -57,7 +57,7 @@ output:
 
 * Programming
   * Model Evaluation
-  * Transfer Learning with Convolutional Neural Networks
+  * [Transfer Learning with Convolutional Neural Networks](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Transfer_Learning_CNN.ipynb)
 
 <br>
 
@@ -68,7 +68,7 @@ output:
 * Machine Learning
 
 * Programming
-  * Chest X-ray Classification
+  * [Chest X-ray Classification](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Chest_XRayData.ipynb)
   
 <br>  
   
