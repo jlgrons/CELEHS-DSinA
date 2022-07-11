@@ -16,7 +16,7 @@ output:
 
 ## Day 1
 
-* Statistics
+* Statistics [[Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Lecture_Stats_1.pdf)]
 
 * Machine Learning
 
