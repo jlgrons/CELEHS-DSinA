@@ -5,7 +5,6 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
-    theme: yeti
   pdf_document:
     toc: yes
     toc_depth: '3'
@@ -41,6 +40,7 @@ output:
 * Programming
   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb)
   * [Convolutional Neural Networks I](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_CNN.ipynb)
+
 <br>
 
 ## Day 3
