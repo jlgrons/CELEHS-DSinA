@@ -17,9 +17,10 @@ output:
 ## Day 1
 
 * Statistics 
-  * [Introduction to DS Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf)
+  * [Introduction to Data Science](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf)
 
 * Machine Learning
+  * [Introduction to Deep Learning](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0)
 
 * Programming
   * [Exploratory Data Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/EDA.ipynb)
@@ -30,10 +31,12 @@ output:
 ## Day 2
 
 * Statistics 
-  * [Least Squares Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf)
-   * [Regression Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf)
+  * [Least Squares](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf)
+   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf)
 
 * Machine Learning
+  * [Neural Networks](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0)
+
 
 * Programming
   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb)
@@ -43,7 +46,7 @@ output:
 ## Day 3
 
 * Statistics
-  * [Feature Learning Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_FeatureLearning.pdf)
+  * [Feature Learning](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_FeatureLearning.pdf)
 
 * Machine Learning
 
@@ -56,7 +59,7 @@ output:
 ## Day 4
 
 * Statistics 
-  * [Model Evaluation Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf)
+  * [Model Evaluation](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf)
 
 * Machine Learning
 
