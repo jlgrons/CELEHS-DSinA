@@ -30,8 +30,8 @@ output:
 ## Day 2
 
 * Statistics 
-  * [Least Squares Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2021_StatLearning_LeastSquares.pdf)
-   * [Regression Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2021_StatLearning_Regression.pdf)
+  * [Least Squares Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf)
+   * [Regression Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf)
 
 * Machine Learning
 
@@ -43,7 +43,7 @@ output:
 ## Day 3
 
 * Statistics
-  * [Feature Learning Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2021_StatLearning_FeatureLearning.pdf)
+  * [Feature Learning Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_FeatureLearning.pdf)
 
 * Machine Learning
 
