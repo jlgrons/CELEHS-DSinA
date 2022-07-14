@@ -16,7 +16,8 @@ output:
 
 ## Day 1
 
-* Statistics [[Introduction to DS Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf)]
+* Statistics 
+  * [Introduction to DS Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf)
 
 * Machine Learning
 
@@ -29,6 +30,8 @@ output:
 ## Day 2
 
 * Statistics 
+  * [Least Squares Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2021_StatLearning_LeastSquares.pdf)
+   * [Regression Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2021_StatLearning_Regression.pdf)
 
 * Machine Learning
 
@@ -40,6 +43,7 @@ output:
 ## Day 3
 
 * Statistics
+  * [Feature Learning Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2021_StatLearning_FeatureLearning.pdf)
 
 * Machine Learning
 
@@ -51,7 +55,8 @@ output:
 
 ## Day 4
 
-* Statistics [[Model Evaluation Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf)]
+* Statistics 
+  * [Model Evaluation Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf)
 
 * Machine Learning
 
