@@ -61,7 +61,7 @@ output:
 * Machine Learning
 
 * Programming
-  * Model Evaluation
+  * [Model Evaluation](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_PerfEval.ipynb)
   * [Transfer Learning with Convolutional Neural Networks](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Transfer_Learning_CNN.ipynb)
 
 <br>
