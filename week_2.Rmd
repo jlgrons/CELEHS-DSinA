@@ -16,7 +16,7 @@ output:
 
 ## Day 1
 
-* Statistics [[Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Lecture_Stats_1.pdf)]
+* Statistics [[Introduction to DS Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf)]
 
 * Machine Learning
 
@@ -28,7 +28,7 @@ output:
 
 ## Day 2
 
-* Statistics
+* Statistics 
 
 * Machine Learning
 
@@ -51,7 +51,7 @@ output:
 
 ## Day 4
 
-* Statistics
+* Statistics [[Model Evaluation Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf)]
 
 * Machine Learning
 
