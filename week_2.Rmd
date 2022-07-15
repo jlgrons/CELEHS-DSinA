@@ -31,7 +31,7 @@ output:
 
 * Statistics 
   * [Least Squares](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf)
-   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf)
+  * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf)
 
 * Machine Learning
   * [Neural Networks](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0)
@@ -72,8 +72,7 @@ output:
 ## Day 5
 
 * Statistics
-
-* Machine Learning
+   * [Data Science in Healthcare](https://docs.google.com/presentation/d/1ZKkEOKXlDlS1frW4OMS-n1ucBCqWQT_SwacBf_m0uJs/edit?usp=sharing&resourcekey=0-iWy0ws7tUZDi9JOxEHtBqg)
 
 * Programming
   * [Chest X-ray Classification](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Chest_XRayData.ipynb)
