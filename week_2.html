@@ -13,7 +13,7 @@
 
 <title>Week 2: Statistics &amp; Machine Learning</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -65,6 +65,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -85,6 +86,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -142,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -310,7 +318,7 @@ div.tocify {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -379,7 +387,8 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Week 2: Statistics &amp; Machine Learning</h1>
+<h1 class="title toc-ignore">Week 2: Statistics &amp; Machine
+Learning</h1>
 
 </div>
 
@@ -390,16 +399,56 @@ div.tocify {
 <ul>
 <li>Statistics
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf">Introduction to Data Science</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf">Introduction
+to Data Science</a></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/COsSe5On7D8">Intro and History of Data
+Science</a></li>
+<li><a href="https://youtu.be/0wJHQw_fbOM">Raw vs processed
+data</a></li>
+<li><a href="https://youtu.be/ZObK1C3dN9Q">Data science process: Step
+0</a></li>
+<li><a href="https://youtu.be/7mpfMitAzVA">Data science process: Steps
+1-3</a></li>
+<li><a href="https://youtu.be/UuDUrM2E1vU">Statisical vs Computer
+Science Perspective</a></li>
+<li><a href="https://youtu.be/YpnXWPVNS7Y">Data science process: Step
+4</a></li>
+<li><a href="https://youtu.be/D_26luygCiM">Data science pitfalls and
+data science IRL</a></li>
 </ul></li>
+</ul></li>
+</ul>
+<p><!-- Raw vs unprocess data --> <!-- Data science step 0 -->
+<!-- Statisical vs Computer Science Perspective --></p>
+<ul>
 <li>Machine Learning
 <ul>
-<li><a href="https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0">Introduction to Deep Learning</a></li>
+<li><a
+href="https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0">Introduction
+to Deep Learning</a></li>
 </ul></li>
 <li>Programming
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/EDA.ipynb">Exploratory Data Analysis</a></li>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_neural_networks.ipynb">Neural Networks</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/EDA.ipynb">Exploratory
+Data Analysis</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_neural_networks.ipynb">Neural
+Networks</a></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/s38rY2rMJlo">Intro to Neural
+Networks</a></li>
+<li><a href="https://youtu.be/GDkpTmigtn8">Intro to Neural Networks Part
+II</a></li>
+<li><a href="https://youtu.be/DZCvNPSe8Dc">Intro to Neural Networks Part
+III</a></li>
+<li><a href="https://youtu.be/YJM_fgkzBXo">Intro to Neural Networks Part
+IV</a></li>
+</ul></li>
 </ul></li>
 </ul>
 <p><br></p>
@@ -409,17 +458,46 @@ div.tocify {
 <ul>
 <li>Statistics
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf">Least Squares</a></li>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf">Logistic Regression</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf">Least
+Squares</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf">Logistic
+Regression</a></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/pz_XZkRaMf0">Intro to Least
+Squares</a></li>
+<li><a href="https://youtu.be/WS0NyPk_KtA">Ingredients of Statistical
+Learning</a></li>
+<li><a href="https://youtu.be/1yRU2_NVrXA">Ice Cream Example</a></li>
+<li><a href="https://youtu.be/9u1ElIv0QWY">Ice Cream Example Part
+II</a></li>
+<li><a href="https://youtu.be/t4p9dlIlbMM">Least Squares
+Estimate</a></li>
+<li><a href="https://youtu.be/9Ykq006-Qr0">Logistic Regression</a></li>
+<li><a href="https://youtu.be/9Ykq006-Qr0">Logistic Regression Part
+II</a></li>
+</ul>
+<!-- Ice Cream Example Part II] -->
+<!-- Optimization and Least Squares estimate are the same video -->
+<!--Logistic regression part II is entire video from day 2 not a clip -->
+<!--Playlist for each lecture --></li>
 </ul></li>
 <li>Machine Learning
 <ul>
-<li><a href="https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0">Neural Networks</a></li>
+<li><a
+href="https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0">Neural
+Networks</a></li>
 </ul></li>
 <li>Programming
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb">Logistic Regression</a></li>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_CNN.ipynb">Convolutional Neural Networks I</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb">Logistic
+Regression</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_CNN.ipynb">Convolutional
+Neural Networks I</a></li>
 </ul></li>
 </ul>
 <p><br></p>
@@ -429,13 +507,19 @@ div.tocify {
 <ul>
 <li><p>Statistics</p>
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_FeatureLearning.pdf">Feature Learning</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_FeatureLearning.pdf">Feature
+Learning</a></li>
 </ul></li>
 <li><p>Machine Learning</p></li>
 <li><p>Programming</p>
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb">Principal Component Analysis</a></li>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN_II.ipynb">Convolutional Neural Networks II</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb">Principal
+Component Analysis</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN_II.ipynb">Convolutional
+Neural Networks II</a></li>
 </ul></li>
 </ul>
 <p><br></p>
@@ -443,15 +527,51 @@ div.tocify {
 <div id="day-4" class="section level2">
 <h2>Day 4</h2>
 <ul>
-<li><p>Statistics</p>
+<li>Statistics
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf">Model Evaluation</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf">Model
+Evaluation</a></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/m9JoXbzIy2A">Train Test Split</a></li>
+<li><a href="https://youtu.be/33x25BXCH2A">Prediction Performance
+Metrics</a></li>
+<li><a href="https://youtu.be/7h6LaMpxncU">Confusion Matrix</a></li>
+<li><a href="https://youtu.be/Ng_Zz3hy8Fg">ROC</a></li>
+<li><a href="https://youtu.be/2XvWyX9-ux4">Evaluation</a></li>
 </ul></li>
-<li><p>Machine Learning</p></li>
-<li><p>Programming</p>
+</ul></li>
+</ul>
+<!-- pred performance matrix  -->
+<!-- evaluation  -->
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_PerfEval.ipynb">Model Evaluation</a></li>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Transfer_Learning_CNN.ipynb">Transfer Learning with Convolutional Neural Networks</a></li>
+<li>Machine Learning
+<ul>
+<li>Deep Reinforcement Learning</li>
+<li>Video Clips
+<ul>
+<li><a href="https://youtu.be/phB3SAoTAHc">Deep Reinforcement
+Learning</a></li>
+<li><a href="https://youtu.be/HE8fy7-61lE">Deep Reinforcement Learning
+part II</a></li>
+<li><a href="https://youtu.be/CfnQf0YivS4">Recurrent Neural Networks and
+Generative Adversarial Networks</a></li>
+<li><a href="https://youtu.be/nYHvG75NSzo">Recurrent Neural Networks and
+Generative Adversarial Networks Part II</a></li>
+</ul></li>
+</ul></li>
+</ul>
+<!-- general adversial networks -->
+<ul>
+<li>Programming
+<ul>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_PerfEval.ipynb">Model
+Evaluation</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Transfer_Learning_CNN.ipynb">Transfer
+Learning with Convolutional Neural Networks</a></li>
 </ul></li>
 </ul>
 <p><br></p>
@@ -461,13 +581,33 @@ div.tocify {
 <ul>
 <li>Statistics
 <ul>
-<li><a href="https://docs.google.com/presentation/d/1ZKkEOKXlDlS1frW4OMS-n1ucBCqWQT_SwacBf_m0uJs/edit?usp=sharing&amp;resourcekey=0-iWy0ws7tUZDi9JOxEHtBqg">Data Science in Healthcare</a></li>
+<li><a
+href="https://docs.google.com/presentation/d/1ZKkEOKXlDlS1frW4OMS-n1ucBCqWQT_SwacBf_m0uJs/edit?usp=sharing&amp;resourcekey=0-iWy0ws7tUZDi9JOxEHtBqg">Data
+Science in Healthcare</a></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/nNNpbXQm_nw">Intro to Data Science in
+Health Care</a></li>
+<li><a href="https://youtu.be/1KSPodZFquA">Examples</a></li>
+<li><a href="https://youtu.be/eeue7ID8mzg">Other types of Machine
+Learning and Bias</a></li>
+<li><a href="https://youtu.be/FgHv4EIDfio">About your
+instructor</a></li>
+</ul></li>
 </ul></li>
 <li>Programming
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Chest_XRayData.ipynb">Chest X-ray Classification</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Chest_XRayData.ipynb">Chest
+X-ray Classification</a></li>
 </ul></li>
+<li><a href="https://youtu.be/nqdqGy76EBc">Student Final
+Presentations</a></li>
 </ul>
+<!-- examples fo 2nd one  -->
+<p><br></p>
+<p>The entire video playlist for data science can be found <a
+href="https://www.youtube.com/watch?v=COsSe5On7D8&amp;list=PL1NoIYgn9KhCghoYkqEFleeo1Qw8Zaryq">here</a>.</p>
 <p><br></p>
 </div>
 

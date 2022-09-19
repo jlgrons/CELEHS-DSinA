@@ -13,7 +13,8 @@
 
 <title>Week 1: Programming in Python</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -64,6 +65,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -84,6 +86,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -141,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -309,7 +318,7 @@ div.tocify {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -387,24 +396,83 @@ div.tocify {
 <div id="day-1" class="section level2">
 <h2>Day 1</h2>
 <ul>
-<li><p><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb">Introduction to Python</a></p></li>
-<li><p><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb">Additional Exercises 1: Conditionals</a></p></li>
+<li>Colab notebooks
+<ul>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb">Introduction
+to Python</a></li>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb">Additional
+Exercises 1: Conditionals</a></li>
+</ul></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/EtlGf0s4WBM">Setting Up Colab</a></li>
+<li><a href="https://youtu.be/M7p60eRbY14">Python Basics</a></li>
+<li><a href="https://youtu.be/YCG90jpckRk">Comparators and
+Conditionals</a></li>
+<li><a href="https://youtu.be/GL7XRMcjcTY">Dictionary Exercises</a></li>
+<li><a href="https://youtu.be/LGl2Co1NGsw">Lists</a></li>
+<li><a href="https://youtu.be/J9RSh_V9hOE">Tuple Sets and
+Dictionaries</a></li>
+<li><a href="https://youtu.be/7bpdVkS0n20">Exercises</a></li>
+</ul></li>
 </ul>
+<!-- # For Python Day 1, Dictionary exercises are before data structures?  Is this correct? -->
 <p><br></p>
 </div>
 <div id="day-2" class="section level2">
 <h2>Day 2</h2>
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb">Additional Exercises 2: Loops and Iterators</a></li>
+<li>Colab notebook
+<ul>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb">Additional
+Exercises 2: Loops and Iterators</a></li>
+</ul></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/NBgJCAf3ZqA">While Loops + Break, Pass,
+Continue</a></li>
+<li><a href="https://youtu.be/VmKPJoAaerU">Loops and Range</a></li>
+<li><a href="https://youtu.be/QKowgkNaHSg">Loops and Range
+Exercises</a></li>
+<li><a href="https://youtu.be/uGlR4DQwqis">While Loops + Break, Pass,
+Continue Part II</a></li>
+<li><a href="https://youtu.be/8-g2lq8rFUc">Loops and Iterator
+Exercises</a></li>
+<li><a href="https://youtu.be/ZvNFHksyumM">Loops and Iterator Exercises
+Part II</a></li>
+<li><a href="https://youtu.be/KbEBTtAjDBk">Loops and Iterator Exercises
+Part III</a></li>
+</ul></li>
 </ul>
+<!-- # For Python Day 2, Loops and Iterator Exercises are not ordered correctly, Part 2, 3, 1-->
 <p><br></p>
 </div>
 <div id="day-3" class="section level2">
 <h2>Day 3</h2>
 <ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb">Additional Exercises 3: Functions</a></li>
+<li>Colab notebook
+<ul>
+<li><a
+href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb">Additional
+Exercises 3: Functions</a></li>
+</ul></li>
+<li>Video clips
+<ul>
+<li><a href="https://youtu.be/u4524Or-hec">Functions</a></li>
+<li><a href="https://youtu.be/ogvBvc3bG1o">Numpy</a></li>
+<li><a href="https://youtu.be/eeEyNh2Vw8U">Image Data</a></li>
+<li><a href="https://youtu.be/HaA38hdCIGQ">Function Exercises</a></li>
+<li><a href="https://youtu.be/HaA38hdCIGQ">Function Exercises Part
+II</a></li>
+</ul></li>
 </ul>
 <p><br></p>
+<p>The entire video playlist for Python programming can be found at <a
+href="https://www.youtube.com/watch?v=EtlGf0s4WBM&amp;list=PL1NoIYgn9KhA6Uv5uqVGLHxJoC9T5NyR_&amp;index=1">here</a>.
+<br></p>
 </div>
 
 

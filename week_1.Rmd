@@ -14,22 +14,57 @@ output:
 
 ## Day 1 
 
-* [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
+* Colab notebooks
+  * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
+  * [Additional Exercises 1: Conditionals](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb)
 
-* [Additional Exercises 1: Conditionals](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb)
+* Video clips
+  * [Setting Up Colab](https://youtu.be/EtlGf0s4WBM)
+  * [Python Basics](https://youtu.be/M7p60eRbY14)
+  * [Comparators and Conditionals](https://youtu.be/YCG90jpckRk)
+  * [Dictionary Exercises](https://youtu.be/GL7XRMcjcTY)
+  * [Lists](https://youtu.be/LGl2Co1NGsw)
+  * [Tuple Sets and Dictionaries](https://youtu.be/J9RSh_V9hOE)
+  * [Exercises](https://youtu.be/7bpdVkS0n20)
+  
+<!-- # For Python Day 1, Dictionary exercises are before data structures?  Is this correct? -->
 
 <br>
 
 ## Day 2
 
-* [Additional Exercises 2: Loops and Iterators](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb)
+* Colab notebook
+  * [Additional Exercises 2: Loops and Iterators](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb)
 
+* Video clips
+  * [While Loops + Break, Pass, Continue](https://youtu.be/NBgJCAf3ZqA)
+  * [Loops and Range](https://youtu.be/VmKPJoAaerU)
+  * [Loops and Range Exercises](https://youtu.be/QKowgkNaHSg)
+  * [While Loops + Break, Pass, Continue Part II](https://youtu.be/uGlR4DQwqis)
+  * [Loops and Iterator Exercises](https://youtu.be/8-g2lq8rFUc)
+  * [Loops and Iterator Exercises Part II ](https://youtu.be/ZvNFHksyumM)
+  * [Loops and Iterator Exercises Part III](https://youtu.be/KbEBTtAjDBk)
+  
+<!-- # For Python Day 2, Loops and Iterator Exercises are not ordered correctly, Part 2, 3, 1-->
+
+  
 <br>
 
 ## Day 3
 
-* [Additional Exercises 3: Functions](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb)
+* Colab notebook
+  * [Additional Exercises 3: Functions](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb)
+* Video clips
+  * [Functions](https://youtu.be/u4524Or-hec)
+  * [Numpy](https://youtu.be/ogvBvc3bG1o)
+  * [Image Data](https://youtu.be/eeEyNh2Vw8U)
+  * [Function Exercises](https://youtu.be/HaA38hdCIGQ)
+  * [Function Exercises Part II](https://youtu.be/HaA38hdCIGQ)
 
+
+<br>
+
+The entire video playlist for Python programming can be found at [here](https://www.youtube.com/watch?v=EtlGf0s4WBM&list=PL1NoIYgn9KhA6Uv5uqVGLHxJoC9T5NyR_&index=1).
 <br>
 
 
