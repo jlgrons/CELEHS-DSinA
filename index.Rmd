@@ -1,13 +1,13 @@
 ---
 title: "Data Science in Action"
 subtitle: "Machine Learning for Self-Driving Cars"
-subsubtitle: "Harvard CELEHS, 2022"
+subsubtitle: "Harvard CELEHS"
 ---
 
 
 <br>
 
-Welcome to Data Science in Action 2022!  
+Welcome to Data Science in Action 2023!  
 
 All program materials will be added to this website.
 
@@ -21,6 +21,6 @@ Additional information about the program can be found [here](https://celehs.hms.
    
   ******
 
- We are very grateful for support from multiple sponsors.
+ We are very grateful for support from our sponsors.
  
 ![](images/support.png){width=40%}

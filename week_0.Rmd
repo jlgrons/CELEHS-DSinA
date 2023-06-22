@@ -4,7 +4,8 @@ title: "Week 0: Building the car"
 
 ---
 
-* Car construction playlist on [YouTube](https://www.youtube.com/playlist?list=PL1NoIYgn9KhDKmdbQe0PN8yuDp_0w00Ft)
+* Car construction playlist
+on [YouTube](https://www.youtube.com/playlist?list=PL1NoIYgn9KhDKmdbQe0PN8yuDp_0w00Ft)
 
 * Car construction tip [document](https://docs.google.com/document/d/1qWDadafhMm8apCKnREDRMMk5vF0cQEj9ogpGx5lvABk/edit?usp=sharing)
 
