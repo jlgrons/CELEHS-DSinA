@@ -13,7 +13,8 @@
 
 <title>Speakers</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -61,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +238,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -308,36 +313,25 @@ $(document).ready(function () {
 
 
 <hr />
-<p>We are very fortunate to have lunchtime speakers join us to discuss their path to data science.</p>
+<p>We are very fortunate to have lunchtime speakers join us to discuss
+their path to data science.</p>
 <div id="week-1" class="section level2">
 <h2>Week 1</h2>
-<ul>
-<li>July 5: <a href="https://www.hsph.harvard.edu/heather-mattie/">Heather Mattie</a> (Host: Jesse)
-<ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/H_Mattie_Slides.pdf">Slides</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875681/">Algorithmic bias paper</a></li>
-</ul></li>
-<li>July 6: <a href="https://www.linkedin.com/in/swaminathan-v-2b71332">Swami Vaithianathasamy</a> (Host: Nitin)</li>
-<li>July 7: <a href="https://www.linkedin.com/in/benjamin-sanchez-lengeling-6879a68a">Benjamin Sanchez-Langeling</a> (Host: Aaron)
-<ul>
-<li><a href="https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/B_Sanchez-Lengeling_Slides.pdf">Slides</a></li>
-</ul></li>
-<li>July 8: <a href="https://theorg.com/org/paypal/org-chart/hui-wang">Hui Wang</a> (Host: Aaron)</li>
-</ul>
-</div>
-<div id="week-2" class="section level2">
-<h2>Week 2</h2>
-<ul>
-<li>July 11: <a href="https://imes.mit.edu/research-staff-prof/leo-anthony-celi/">Leo Anthony Celi</a> (Host: Aaron)</li>
-<li>July 12: <a href="https://healthyml.org">Marzyeh Ghassemi</a> (Host: Aaron)</li>
-<li>July 13: <a href="https://publichealth.nyu.edu/faculty/melody-goodman">Melody Goodman</a> (Host: Jesse)</li>
-<li>July 14: <a href="https://www.linkedin.com/in/chiarapoletti">Chiara Poletti</a> (Host: Nitin)</li>
-<li>July 15: <a href="https://tpgarcia.github.io">Tanya Garcia</a> (Host: Jesse)</li>
-</ul>
-<p>Suggested resources from the speakers:</p>
-<ul>
-<li><a href="https://www.udemy.com/">Udemy</a></li>
-</ul>
+<!-- * July 5: [Heather Mattie](https://www.hsph.harvard.edu/heather-mattie/)  (Host: Jesse) -->
+<!--   * [Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/H_Mattie_Slides.pdf) -->
+<!--   * [Algorithmic bias paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875681/) -->
+<!-- * July 6: [Swami Vaithianathasamy](https://www.linkedin.com/in/swaminathan-v-2b71332) (Host: Nitin) -->
+<!-- * July 7: [Benjamin Sanchez-Langeling](https://www.linkedin.com/in/benjamin-sanchez-lengeling-6879a68a) (Host: Aaron) -->
+<!--   * [Slides](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/B_Sanchez-Lengeling_Slides.pdf) -->
+<!-- * July 8: [Hui Wang](https://theorg.com/org/paypal/org-chart/hui-wang) (Host: Aaron) -->
+<!-- ## Week 2 -->
+<!-- * July 11: [Leo Anthony Celi](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) (Host: Aaron) -->
+<!-- * July 12: [Marzyeh Ghassemi](https://healthyml.org) (Host: Aaron) -->
+<!-- * July 13: [Melody Goodman](https://publichealth.nyu.edu/faculty/melody-goodman) (Host: Jesse) -->
+<!-- * July 14: [Chiara Poletti](https://www.linkedin.com/in/chiarapoletti) (Host: Nitin) -->
+<!-- * July 15: [Tanya Garcia](https://tpgarcia.github.io) (Host: Jesse) -->
+<!-- Suggested resources from the speakers: -->
+<!-- * [Udemy](https://www.udemy.com/) -->
 </div>
 
 
