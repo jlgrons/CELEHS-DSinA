@@ -15,26 +15,35 @@ Get to know your instructors [here](https://celehs.hms.harvard.edu/camp_instruct
 
 Get to know your TAs and Program Staff [here](https://celehs.hms.harvard.edu/camp_team.html).
 
+[MA Camp Schedule](https://celehs.hms.harvard.edu/summer_camp/MASummerCampSchedule2023.pdf)
 
+[CA Camp Schedule](https://celehs.hms.harvard.edu/summer_camp/CASummerCampSchedule2023.pdf)
 
-
-<br>
    
 ******
-Our Program Directors
+Program Directors
 
 
 
 <div style="display: flex;">
  <div style="flex:33.33%; padding: 5px;">
-   ![](images/tianxi.png){width=80%}
+   ![](images/tianxi.png){width=100%}
+   <div style="text-align: center;"><strong>Tianxi Cai</strong></div>
+   <div style="text-align: center;">Professor of Biomedical Informatics, Harvard Medical School</div>
+   
+
    
  </div>
   <div style="flex:33.33%; padding: 5px;">
-   ![](images/jessica.jpg){width=80%}
+   ![](images/jessica.jpg){width=100%}
+   <div style="text-align: center;"><strong>Jessica Gronsbell</strong></div>
+   <div style="text-align: center;">Assistant Professor, Department of Statistical Sciences, University of Toronto</div>
   </div>
+  
   <div style="flex: 33.33%; padding: 5px;">
-   ![](images/junwei.png){width=80%}
+   ![](images/junwei.png){width=1000%}
+   <div style="text-align: center;"><strong>Junwei Lu</strong></div>
+   <div style="text-align: center;">Assistant Professor of Biostatistics,  Harvard T.H. Chan School of Public Health </div>
   </div>
 </div>
 
