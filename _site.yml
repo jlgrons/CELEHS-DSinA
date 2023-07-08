@@ -7,9 +7,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Week 0: Car Building"
+    - text: "Car Building"
       icon: fa-car 
-      href: week_0.html
+      href: car_building.html
     - text: "Week 1: Programming"
       icon: fa-mouse-pointer
       href: week_1.html

@@ -16,8 +16,8 @@ output:
 
 
 * Colab notebooks
-  * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
-  * [Additional Exercises 1: Conditionals](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_1_conditionals.ipynb) 
+  * Introduction to Python 1
+  * Additional Exercises 1: Conditionals 
 
 * Sections
   * Setting Up Colab
@@ -34,8 +34,8 @@ output:
 ## Day 2 
 
 * Colab notebook
-  * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
-  * [Additional Exercises 2: Loops and Iterators](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_2_loops_and_iterators.ipynb) 
+  * Introduction to Python 2
+  * Additional Exercises 2: Loops and Iterators
 
 * Sections
    * While Loops + Break, Pass, Continue
@@ -47,8 +47,8 @@ output:
 ## Day 3
 
 * Colab notebook
-  * [Introduction to Python](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/python_intro.ipynb)
-  * [Additional Exercises 3: Functions](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_1_Materials/additional_exercises_3_functions.ipynb)
+  * Introduction to Python 3
+  * Additional Exercises 3: Functions
   
 * Sections
    * Functions
@@ -71,7 +71,6 @@ output:
 
 <br>
 
-Last year's video playlist for Python programming can be found at [here](https://www.youtube.com/watch?v=COsSe5On7D8&list=PL1NoIYgn9KhCghoYkqEFleeo1Qw8Zaryq).
 
 Daily sessions for 2023 camp will be recorded and made available here at the conclusion of each day here
 
