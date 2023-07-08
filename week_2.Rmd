@@ -15,9 +15,11 @@ output:
 
 ## Day 1
 
-<!-- * Statistics  -->
-<!--   * [Introduction to Data Science](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf) -->
-<!--   * Video clips -->
+* Statistics
+  * [Conceptual Introduction to Data Science](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Introduction.pdf)
+
+
+<!-- *2022 material -->
 <!--     * [Intro and History of Data Science](https://youtu.be/COsSe5On7D8) -->
 <!--     * [Raw vs processed data](https://youtu.be/0wJHQw_fbOM) -->
 <!--     * [Data science process: Step 0](https://youtu.be/ZObK1C3dN9Q) -->
@@ -25,113 +27,121 @@ output:
 <!--     * [Statisical vs Computer Science Perspective](https://youtu.be/UuDUrM2E1vU) -->
 <!--     * [Data science process: Step 4](https://youtu.be/YpnXWPVNS7Y) -->
 <!--     * [Data science pitfalls and data science IRL](https://youtu.be/D_26luygCiM) -->
+<!-- *2022 material -->
+
+
+* Machine Learning
+  * Conceptual Introduction to Deep Learning and AI
+
+<!-- *2022 material -->
+  <!-- * [Introduction to Deep Learning](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0) -->
+<!-- *2022 material -->
+
+
+* Programming
+  * [Exploratory Data Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/EDA.ipynb)
+  * [Introduction to Neural Networks](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_neural_networks.ipynb)
+  
+<!-- *2022 material -->
+  <!-- * Video clips -->
+    <!-- * Intro to Neural Networks -->
+    <!-- * Intro to Neural Networks Part II -->
+    <!-- * Intro to Neural Networks Part III -->
+    <!-- * Intro to Neural Networks Part IV -->
+<!-- *2022 material -->
+
+<br>
+
+## Day 2
+
+* Statistics
+  * [Least Squares](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf)
+  * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf)
+
+  <!-- * Video clips -->
+    <!-- * Intro to Least Squares -->
+    <!-- * Ingredients of Statistical Learning -->
+    <!-- * Least Squares Estimate -->
+    <!-- * Logistic Regression -->
+    <!-- * [Logistic Regression Part II] -->
+
+
+* Machine Learning
+  * Introduction to Convolutional Neural Networks
 
 
 
-<!-- * Machine Learning -->
-<!--   * [Introduction to Deep Learning](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0) -->
-
-<!-- * Programming -->
-<!--   * [Exploratory Data Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/EDA.ipynb) -->
-<!--   * [Neural Networks](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_neural_networks.ipynb) -->
-<!--   * Video clips -->
-<!--     * [Intro to Neural Networks](https://youtu.be/s38rY2rMJlo) -->
-<!--     * [Intro to Neural Networks Part II](https://youtu.be/GDkpTmigtn8) -->
-<!--     * [Intro to Neural Networks Part III](https://youtu.be/DZCvNPSe8Dc) -->
-<!--     * [Intro to Neural Networks Part IV](https://youtu.be/YJM_fgkzBXo) -->
+* Programming
+  * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb)
+  * [Convolutional Neural Networks Part I](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_CNN.ipynb)
 
 
-<!-- <br> -->
+<br>
 
-<!-- ## Day 2 -->
+## Day 3
 
-<!-- * Statistics  -->
-<!--   * [Least Squares](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_LeastSquares.pdf) -->
-<!--   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_Regression.pdf) -->
-<!--   * Video clips -->
-<!--     * [Intro to Least Squares](https://youtu.be/pz_XZkRaMf0) -->
-<!--     * [Ingredients of Statistical Learning](https://youtu.be/WS0NyPk_KtA) -->
-<!--     * [Ice Cream Example](https://youtu.be/1yRU2_NVrXA) -->
-<!--     * [Ice Cream Example Part II](https://youtu.be/9u1ElIv0QWY) -->
-<!--     * [Least Squares Estimate](https://youtu.be/t4p9dlIlbMM) -->
-<!--     * [Logistic Regression](https://youtu.be/9Ykq006-Qr0) -->
-<!--     * [Logistic Regression Part II](https://youtu.be/9Ykq006-Qr0) -->
+* Statistics
+  * [Model Evaluation](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf)
+  <!-- * Video clips -->
+    <!-- * Train Test Split -->
+    <!-- * Prediction Performance Metrics -->
+    <!-- * Confusion Matrix -->
+    <!-- * ROC -->
+    <!-- * Evaluation -->
 
 
+* Machine Learning
+  * Computer Vision and Convolution Neural Network
 
-<!-- * Machine Learning -->
-<!--   * [Neural Networks](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0) -->
+* Programming
+  <!-- * [Principal Component Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb) -->
+  * Model Evaluation Practice
+  * [Convolutional Neural Networks Part II & III](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN_II.ipynb)
 
+<br>
 
-<!-- * Programming -->
-<!--   * [Logistic Regression](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Logistic_regression.ipynb) -->
-<!--   * [Convolutional Neural Networks I](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_CNN.ipynb) -->
+## Day 4
 
-<!-- <br> -->
-
-<!-- ## Day 3 -->
-
-<!-- * Statistics -->
-<!--   * [Feature Learning](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_2022_StatLearning_FeatureLearning.pdf) -->
-
-<!-- * Machine Learning -->
-
-<!-- * Programming -->
-<!--   * [Principal Component Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb) -->
-<!--   * [Convolutional Neural Networks II](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Intro_to_CNN_II.ipynb) -->
-
-<!-- <br> -->
-
-<!-- ## Day 4 -->
-
-<!-- * Statistics  -->
-<!--   * [Model Evaluation](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Documents/DSinA_Model_Evaluation.pdf) -->
-<!--   * Video clips -->
-<!--     * [Train Test Split](https://youtu.be/m9JoXbzIy2A) -->
-<!--     * [Prediction Performance Metrics](https://youtu.be/33x25BXCH2A) -->
-<!--     * [Confusion Matrix](https://youtu.be/7h6LaMpxncU) -->
-<!--     * [ROC](https://youtu.be/Ng_Zz3hy8Fg) -->
-<!--     * [Evaluation](https://youtu.be/2XvWyX9-ux4) -->
+* Statistics
+  * Clustering
 
 
 
 
-<!-- * Machine Learning -->
-<!--   * Deep Reinforcement Learning -->
+* Machine Learning
+  * Deep Reinforcement Learning
 <!--   * Video Clips -->
-<!--     * [Deep Reinforcement Learning](https://youtu.be/phB3SAoTAHc) -->
-<!--     * [Deep Reinforcement Learning part II](https://youtu.be/HE8fy7-61lE) -->
-<!--     * [Recurrent Neural Networks and Generative Adversarial Networks](https://youtu.be/CfnQf0YivS4) -->
-<!--     * [Recurrent Neural Networks and Generative Adversarial Networks Part II](https://youtu.be/nYHvG75NSzo) -->
+    * Deep Reinforcement Learning
+    <!-- * [Deep Reinforcement Learning part II] -->
+    * Recurrent Neural Networks and Generative Adversarial Networks
+    <!-- * [Recurrent Neural Networks and Generative Adversarial Networks Part II] -->
 
 <!-- <!-- general adversial networks --> 
 
-<!-- * Programming -->
-<!--   * [Model Evaluation](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_PerfEval.ipynb) -->
-<!--   * [Transfer Learning with Convolutional Neural Networks](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Transfer_Learning_CNN.ipynb) -->
+* Programming
+  * Clustering Practice
+  * Transfer Learning with Convolutional Neural Networks
 
-<!-- <br> -->
+<br>
 
-<!-- ## Day 5 -->
-
-<!-- * Statistics -->
-<!--    * [Data Science in Healthcare](https://docs.google.com/presentation/d/1ZKkEOKXlDlS1frW4OMS-n1ucBCqWQT_SwacBf_m0uJs/edit?usp=sharing&resourcekey=0-iWy0ws7tUZDi9JOxEHtBqg) -->
-<!--    * Video clips -->
-<!--       * [Intro to Data Science in Health Care](https://youtu.be/nNNpbXQm_nw) -->
-<!--       * [Examples](https://youtu.be/1KSPodZFquA) -->
-<!--       * [Other types of Machine Learning and Bias](https://youtu.be/eeue7ID8mzg) -->
-<!--       * [About your instructor](https://youtu.be/FgHv4EIDfio) -->
+## Day 5
+* Finalizing Car and Team Presentation
+* Statistics
+   * [Health Data Science](https://docs.google.com/presentation/d/1ZKkEOKXlDlS1frW4OMS-n1ucBCqWQT_SwacBf_m0uJs/edit?usp=sharing&resourcekey=0-iWy0ws7tUZDi9JOxEHtBqg)
+   
 
 <!-- * Programming -->
 <!--   * [Chest X-ray Classification](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Chest_XRayData.ipynb) -->
 
-<!-- * [Student Final Presentations](https://youtu.be/nqdqGy76EBc) -->
+* [Student Final Presentations](https://youtu.be/nqdqGy76EBc)
 
 
-<!-- <br>   -->
+<br>
 
-<!-- The entire video playlist for data science can be found [here](https://www.youtube.com/watch?v=COsSe5On7D8&list=PL1NoIYgn9KhCghoYkqEFleeo1Qw8Zaryq). -->
+Daily sessions will be recorded and made available here at the conclusion of each day here
 
-<!-- <br> -->
+Please note that the Python notebooks covered each day are subject to changes
+
+<br>
 
 

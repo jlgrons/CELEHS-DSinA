@@ -13,6 +13,9 @@ All program materials will be added to this website.
 
 Get to know your instructors [here](https://celehs.hms.harvard.edu/camp_instructors.html). 
 
+Get to know your TAs and Program Staff [here](https://celehs.hms.harvard.edu/camp_team.html).
+
+
 Additional information about the program can be found [here](https://celehs.hms.harvard.edu/summer_camp.html).
  
  
@@ -23,4 +26,4 @@ Additional information about the program can be found [here](https://celehs.hms.
 
  We are very grateful for support from our sponsors.
  
-![](images/support.png){width=40%}
+![](images/support_2023.jpg){width=100%}
