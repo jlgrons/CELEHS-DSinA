@@ -16,14 +16,34 @@ Get to know your instructors [here](https://celehs.hms.harvard.edu/camp_instruct
 Get to know your TAs and Program Staff [here](https://celehs.hms.harvard.edu/camp_team.html).
 
 
-Additional information about the program can be found [here](https://celehs.hms.harvard.edu/summer_camp.html).
- 
+
+
+<br>
+   
+******
+Our Program Directors
+
+
+
+<div style="display: flex;">
+ <div style="flex:33.33%; padding: 5px;">
+   ![](images/tianxi.png){width=80%}
+   
+ </div>
+  <div style="flex:33.33%; padding: 5px;">
+   ![](images/jessica.jpg){width=80%}
+  </div>
+  <div style="flex: 33.33%; padding: 5px;">
+   ![](images/junwei.png){width=80%}
+  </div>
+</div>
+
  
   
-   <br>
+<br>
    
-  ******
+******
 
  We are very grateful for support from our sponsors.
  
-![](images/support_2023.jpg){width=100%}
+![](images/camp_support2.jpg){width=100%}
