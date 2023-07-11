@@ -23,10 +23,7 @@ output:
   * Setting Up Colab
   * Python Basics
   * Comparators and Conditionals
-  * Dictionary Exercises
-  * Lists
-  * Tuple Sets and Dictionaries
-  * Exercises
+  
 
 
 <br>
@@ -34,12 +31,16 @@ output:
 ## Day 2 
 
 * Colab notebook
-  * Introduction to Python 2
-  * Additional Exercises 2: Loops and Iterators
+  * [Introduction to Python Day-2](https://colab.research.google.com/drive/1N7sK4qA63UM-L3P8zoK4BaZqwABej8Xi?usp=sharing) 
+  * [Additional Exercises 2](https://colab.research.google.com/drive/1oYyENE4h0xBCmUMTt3_Bzj3_9CtBLBA-?usp=sharing)
 
 * Sections
    * While Loops + Break, Pass, Continue
    * Loops and Range Exercises
+   * Dictionary Exercises
+   * Lists
+   * Tuple Sets and Dictionaries
+   * Exercises
 
 
 <br>
