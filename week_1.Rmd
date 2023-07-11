@@ -17,7 +17,8 @@ output:
 
 * Colab notebooks
   * [Introduction to Python Day-1](https://colab.research.google.com/drive/1cXO-n8fnLDH2zdYMLWcD4wDap3q2RwEO?usp=sharing)
-  * [Additional Exercises 1: Conditionals](https://colab.research.google.com/drive/1YmBhVIz44JaT5KmcA_0xCSOBXbdojPyc?usp=sharing)
+  * [Additional Exercises Day-1](https://colab.research.google.com/drive/1YmBhVIz44JaT5KmcA_0xCSOBXbdojPyc?usp=sharing)
+  * [Additional Exercises Answers Day-1](https://colab.research.google.com/drive/1-CqD0EU14uemonqM1aLLK-eX8Ur_gNmk?usp=sharing)
 
 * Sections
   * Setting Up Colab
