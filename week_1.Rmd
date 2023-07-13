@@ -16,14 +16,15 @@ output:
 
 
 * Colab notebooks
-  * [Introduction to Python Day-1](https://colab.research.google.com/drive/1cXO-n8fnLDH2zdYMLWcD4wDap3q2RwEO?usp=sharing)
-  * [Additional Exercises Day-1](https://colab.research.google.com/drive/1YmBhVIz44JaT5KmcA_0xCSOBXbdojPyc?usp=sharing)
-  * [Additional Exercises Answers Day-1](https://colab.research.google.com/drive/1-CqD0EU14uemonqM1aLLK-eX8Ur_gNmk?usp=sharing)
+  * [Introduction to Python - Part 1](https://colab.research.google.com/drive/1cXO-n8fnLDH2zdYMLWcD4wDap3q2RwEO?usp=sharing)
+  * [Python Part 1 Exercises](https://colab.research.google.com/drive/1YmBhVIz44JaT5KmcA_0xCSOBXbdojPyc?usp=sharing)
+  * [Python Part 1 Exercise Solutions](https://colab.research.google.com/drive/1-CqD0EU14uemonqM1aLLK-eX8Ur_gNmk?usp=sharing)
 
 * Sections
   * Setting Up Colab
   * Python Basics
   * Comparators and Conditionals
+  * Data Structures (Lists, Tuples, Dictionaries, Sets)
   
 
 
@@ -31,35 +32,44 @@ output:
 
 ## Day 2 and Day 3
 
-* Colab notebook
-  * [Introduction to Python Day-2](https://colab.research.google.com/drive/1N7sK4qA63UM-L3P8zoK4BaZqwABej8Xi?usp=sharing) 
-  * [Additional Exercises 2](https://colab.research.google.com/drive/1oYyENE4h0xBCmUMTt3_Bzj3_9CtBLBA-?usp=sharing)
+* Colab notebooks
+  * [Introduction to Python - Part 2](https://colab.research.google.com/drive/1N7sK4qA63UM-L3P8zoK4BaZqwABej8Xi?usp=sharing) 
+  * [Python Part 2 Exercises](https://colab.research.google.com/drive/1oYyENE4h0xBCmUMTt3_Bzj3_9CtBLBA-?usp=sharing)
+  * [Python Part 2 Exercise Solutions](https://colab.research.google.com/drive/1UUU5dRVtZ5r1uv7P7MJ6Q6JmIsqXSbvO?usp=sharing)
 
 * Sections
-   * While Loops + Break, Pass, Continue
-   * Loops and Range Exercises
-   * Dictionary Exercises
-   * Lists
-   * Tuple Sets and Dictionaries
-   * Exercises
    * Functions
-   * Function Exercises
-   
+   * While Loops 
+   * For Loops + Range
+   * More on Data Structures
+   * Exceptions 
 
 <br>
 
 ## Day 4
-* Working with Libraries
 
+* Colab notebooks
+  * [Introduction to Python - Part 3](https://colab.research.google.com/drive/1vPDXXMQtPedLmxHTKmWkNinjtQACK2NT?usp=sharing) 
+  * [Python Part 3 Exercises](https://colab.research.google.com/drive/198D70rNUXLmGx4A0cLpmW66oOY48TKMn?usp=sharing)
+  * [Python Part 3 Exercise Solutions]()
+
+* Sections
   * Intro to NumPy
-  * Intro to Matplotlib
+  * Working with Libraries
   * Modules and Packages
 
 <br>
 
 ## Day 5
-* Setting up Raspberry Pi
-* Coding on Raspberry Pi
+
+* Colab notebooks
+  * [Introduction to Python - Part 4](https://colab.research.google.com/drive/1QgHqcXa91VafW8abrntKGMETiWQSlARu?usp=sharing) 
+  * [Python Part 4 Exercises](https://colab.research.google.com/drive/1mOuBtpD0bRpN2IvlRoe0mE1NLbKpbt3J?usp=sharing)
+  * [Python Part 4 Exercise Solutions]()
+
+* Sections
+  * Intro to Matplotlib
+  * Coding on Raspberry Pi
 
 <br>
 
