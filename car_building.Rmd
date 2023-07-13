@@ -7,5 +7,8 @@ title: "Building the Raspi-Car"
 * Car construction playlist
 on [YouTube](https://www.youtube.com/playlist?list=PL1NoIYgn9KhDKmdbQe0PN8yuDp_0w00Ft)
 
+* RasPi Setup can be found [here](https://docs.google.com/document/d/1pxSxgjmDaGKR1JJ8Of2jkM2fQgYeGRaSrLjPH8ZaMG8/edit?usp=sharing)
 
 * Car construction check list [document](https://celehs.hms.harvard.edu/summer_camp/Self_Driving_Complete_Steps.pdf)
+
+
