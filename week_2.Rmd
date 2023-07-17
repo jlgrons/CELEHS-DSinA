@@ -40,7 +40,7 @@ output:
 
 * Programming
   * Exploratory Data Analysis
-  * Introduction to Neural Networks
+  * [Introduction to Neural Networks](https://docs.google.com/document/d/1QnThRj1EppwmlR7uJLZhzJFv3Y9mqMhRFKNcdJwDAkc/edit?usp=sharing)
   
 <!-- *2022 material -->
   <!-- * Video clips -->
