@@ -16,6 +16,7 @@ We are very fortunate to have lunchtime speakers join us to discuss their path t
     * [Interactive ML](https://teachablemachine.withgoogle.com/)
     * [Build your own neural network](https://playground.tensorflow.org)
   * 7/13 Maria Pacheco, University of Colorado
+    * [Presentation Slides](https://drive.google.com/file/d/1oepZvm9AWRCZqXy-8NjEFoF9d8yFZhRJ/view?usp=sharing)
   * 7/14 James Zou, Stanford University
 
 ## Week 2

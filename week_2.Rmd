@@ -39,7 +39,7 @@ output:
 
 
 * Programming
-  * Exploratory Data Analysis
+  * [Exploratory Data Analysis](https://colab.research.google.com/drive/1UYUQ1y5vQi2Y6JvBbkerIk0eCCFW23ZL#scrollTo=6G6y4tHMIxjz)
   * [Introduction to Neural Networks](https://docs.google.com/document/d/1QnThRj1EppwmlR7uJLZhzJFv3Y9mqMhRFKNcdJwDAkc/edit?usp=sharing)
   
 <!-- *2022 material -->
