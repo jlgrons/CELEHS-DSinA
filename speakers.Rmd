@@ -12,6 +12,9 @@ We are very fortunate to have lunchtime speakers join us to discuss their path t
   * 7/10 Layla Parast, University of Texas at Austin
   * 7/11 Xuming He, University of  Michigan
   * 7/12 Benjamin Sanchez, Google
+    * [Cucumber story](https://cloud.google.com/blog/products/gcp/how-a-japanese-cucumer-farmer-is-using-deep-learning-and-tensorflow)
+    * [Interactive ML](https://teachablemachine.withgoogle.com/)
+    * [Build your own neural network](https://playground.tensorflow.org)
   * 7/13 Maria Pacheco, University of Colorado
   * 7/14 James Zou, Stanford University
 
