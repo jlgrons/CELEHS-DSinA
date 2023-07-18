@@ -40,8 +40,14 @@ output:
 
 * Programming
   * [Exploratory Data Analysis](https://colab.research.google.com/drive/1UYUQ1y5vQi2Y6JvBbkerIk0eCCFW23ZL#scrollTo=6G6y4tHMIxjz)
+  * [Exploratory Data Analysis Answer Key](https://colab.research.google.com/drive/1fH-I8zzmoNG-RDWLCabOt2OWJRGLAXyH?invite=CJOTs5sN&sh=VdAD8T_gWgbjFjPU)
   * [Introduction to Neural Networks](https://docs.google.com/document/d/1QnThRj1EppwmlR7uJLZhzJFv3Y9mqMhRFKNcdJwDAkc/edit?usp=sharing)
   
+  
+* Recordings
+  * [Conceptual Introduction to Data Science Recording](https://harvard.zoom.us/rec/share/T7l3rQTTIxfHFyybCwU9Tpuu0-ANz55IBAbgGkuqeDoeQcYCnP_nvmZ5IMgXw7iC.gFx4q7NI31RIGwjg?startTime=1689608196000) 
+  * [EDA Recording](https://harvard.zoom.us/rec/share/T7l3rQTTIxfHFyybCwU9Tpuu0-ANz55IBAbgGkuqeDoeQcYCnP_nvmZ5IMgXw7iC.gFx4q7NI31RIGwjg?startTime=1689608196000)
+  * [Intro to Neural Networks Recording](https://harvard.zoom.us/rec/share/T7l3rQTTIxfHFyybCwU9Tpuu0-ANz55IBAbgGkuqeDoeQcYCnP_nvmZ5IMgXw7iC.gFx4q7NI31RIGwjg?startTime=1689621325000)
 <!-- *2022 material -->
   <!-- * Video clips -->
     <!-- * Intro to Neural Networks -->
