@@ -78,8 +78,8 @@ output:
 
 
 * Programming
-  * Logistic Regression
-  * Convolutional Neural Networks Part I
+  * [Logistic Regression](https://colab.research.google.com/drive/16vnEfQlrttv-uf5k1j-r_z6f0r2_i7Jt?usp=sharing)
+  * [Convolutional Neural Networks Part I](https://colab.research.google.com/drive/1L9zk4h4EfZHKk_xfwEhBJKa4KNnzXLlx#scrollTo=dTNkwHTKhlAf)
 
 
 <br>
