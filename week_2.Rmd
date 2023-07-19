@@ -101,8 +101,8 @@ output:
 
 * Programming
   <!-- * [Principal Component Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb) -->
-  * Model Evaluation Practice
-  * Convolutional Neural Networks Part II & III
+  * [Kernel Worksheet](https://docs.google.com/spreadsheets/d/1M6fT3e_J6JvXG-uQ_35t6qFPw-zipmfbE6KGYhxb-gA/edit?usp=share_link)
+  * [Convolutional Neural Networks Part II & III](https://colab.research.google.com/drive/1XjmbNYZpIwd4q7ledI7MH2LB59QHHltr?usp=share_link)
 
 <br>
 
