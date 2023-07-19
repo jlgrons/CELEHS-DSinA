@@ -105,6 +105,8 @@ output:
   * [Convolutional Neural Networks Part II & III](https://colab.research.google.com/drive/1XjmbNYZpIwd4q7ledI7MH2LB59QHHltr?usp=share_link)
 
 * PiCar
+  * Renaming Images - Each group has to ensure that each of the 120 images has a different file name
+    * [Run this script if renaming images is needed](https://drive.google.com/file/d/1Z2-U4Mf7tioGYvulJH472Bgt-LWQhkmk/view?usp=sharing)
   * [Labelling Images](https://docs.google.com/document/d/1zrMCOSch2EH9a9xzU4BH-8pfjxpNCTVSjmb7uHtCAAY/edit?usp=sharing)
 <br>
 
