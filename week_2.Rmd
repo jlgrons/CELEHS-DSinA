@@ -104,6 +104,8 @@ output:
   * [Kernel Worksheet](https://docs.google.com/spreadsheets/d/1M6fT3e_J6JvXG-uQ_35t6qFPw-zipmfbE6KGYhxb-gA/edit?usp=share_link)
   * [Convolutional Neural Networks Part II & III](https://colab.research.google.com/drive/1XjmbNYZpIwd4q7ledI7MH2LB59QHHltr?usp=share_link)
 
+* PiCar
+  * [Labelling Images](https://docs.google.com/document/d/1zrMCOSch2EH9a9xzU4BH-8pfjxpNCTVSjmb7uHtCAAY/edit?usp=sharing)
 <br>
 
 ## Day 4
