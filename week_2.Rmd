@@ -135,6 +135,8 @@ output:
 * PiCar
   * [Training your image classification](https://colab.research.google.com/drive/1gmAkXdu1d-9Qe0wKDV2N95I7HzX4lc8P?usp=sharing)
 
+* [Last Year Final Presentation]( https://harvard.zoom.us/rec/share/oovTLliJtQMO2EjTbnCLEyDfk7wwXa79qU86sAQqsOrjxvd_6XoNIO0EmzvuVOwS.ytoqCSBApfrQQX-K?startTime=1657908198000)
+
 <br>
 
 ## Day 5
