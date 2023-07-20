@@ -131,6 +131,9 @@ output:
 * Programming
   * Clustering Practice
   * Transfer Learning with Convolutional Neural Networks
+  
+* PiCar
+  * [Training your image classification](https://colab.research.google.com/drive/1gmAkXdu1d-9Qe0wKDV2N95I7HzX4lc8P?usp=sharing)
 
 <br>
 
