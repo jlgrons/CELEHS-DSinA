@@ -5,3 +5,23 @@ title: "Resources"
 ---
 
 * [Example final presentation](https://docs.google.com/presentation/d/143gaivNDSSiOcq6FwF8lWalIavCuK_zkKTfbb0WUowI/edit?usp=sharing) from Jose Luis Almeida
+
+
+
+## General Data Science Resources
+
+* [Analytics vs. Statistics by Cassie Kozyrkov](https://www.youtube.com/watch?v=YsrPImZyisI)
+* [Data Science’s Most Misunderstood Hero by Cassie Kozyrkov](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
+* [A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks by Hernan et al](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/1268/20/hernan_chance19.pdf)
+* [Ten Simple Rules for Effective Statistical Practice by Kass et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
+* [An Introduction to Statistical Learning by James et al](https://www.statlearning.com)
+* [The Hiring Gambit: In Search of the Twofer Data Scientist by Radu Craiu](https://hdsr.mitpress.mit.edu/pub/v9fdn7n7/release/4)
+* [Deep Learning with Python by Francois Chollet](https://www.manning.com/books/deep-learning-with-python)
+
+## Coding Resources
+
+* [Tidyverse style guide](https://style.tidyverse.org)
+* [Advanced R](https://adv-r.hadley.nz)
+* [testthat](https://testthat.r-lib.org)
+* [R for Data Science](https://r4ds.had.co.nz)
+* [Data Visualization with R](https://rkabacoff.github.io/datavis/)
