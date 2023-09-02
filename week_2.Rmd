@@ -13,9 +13,11 @@ output:
 
 ---
 
+All of the statistical learning slides can be found [here](https://drive.google.com/drive/folders/1xlRVxJCkOPVYqaNqFqSdM6se86qu-dKJ?usp=sharing).
+
 ## Day 1
 
-* Statistics
+* Statistical learning
   * Conceptual Introduction to Data Science
 
 
@@ -60,7 +62,7 @@ output:
 
 ## Day 2
 
-* Statistics
+* Statistical learning
   * Least Squares
   * Logistic Regression
 
@@ -86,7 +88,7 @@ output:
 
 ## Day 3
 
-* Statistics
+* Statistical learning
   * Model Evaluation
   <!-- * Video clips -->
     <!-- * Train Test Split -->
@@ -112,7 +114,7 @@ output:
 
 ## Day 4
 
-* Statistics
+* Statistical learning
   * Clustering
 
 
@@ -141,7 +143,7 @@ output:
 
 ## Day 5
 * Finalizing Car Demo and Team Presentation
-* Statistics
+* Statistical learning
    * Health Data Science
    
 
