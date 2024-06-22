@@ -13,12 +13,13 @@ output:
 
 ---
 
-All of the statistical learning slides can be found [here](https://drive.google.com/drive/folders/1xlRVxJCkOPVYqaNqFqSdM6se86qu-dKJ?usp=sharing).
 
 ## Day 1
 
 * Statistical learning
-  * Conceptual Introduction to Data Science
+  * Least Squares
+  * Logistic Regression
+ 
 
 
 <!-- *2022 material -->
@@ -40,31 +41,19 @@ All of the statistical learning slides can be found [here](https://drive.google.
 <!-- *2022 material -->
 
 
-* Programming
-  * [Exploratory Data Analysis](https://colab.research.google.com/drive/1UYUQ1y5vQi2Y6JvBbkerIk0eCCFW23ZL#scrollTo=6G6y4tHMIxjz)
-  * [Exploratory Data Analysis Answer Key](https://colab.research.google.com/drive/1fH-I8zzmoNG-RDWLCabOt2OWJRGLAXyH?invite=CJOTs5sN&sh=VdAD8T_gWgbjFjPU)
-  * [Introduction to Neural Networks](https://docs.google.com/document/d/1QnThRj1EppwmlR7uJLZhzJFv3Y9mqMhRFKNcdJwDAkc/edit?usp=sharing)
+* Colab notebooks
+
   
   
 * Recordings
-  * [Conceptual Introduction to Data Science Recording](https://harvard.zoom.us/rec/share/T7l3rQTTIxfHFyybCwU9Tpuu0-ANz55IBAbgGkuqeDoeQcYCnP_nvmZ5IMgXw7iC.gFx4q7NI31RIGwjg?startTime=1689608196000) 
-  * [EDA Recording](https://harvard.zoom.us/rec/share/T7l3rQTTIxfHFyybCwU9Tpuu0-ANz55IBAbgGkuqeDoeQcYCnP_nvmZ5IMgXw7iC.gFx4q7NI31RIGwjg?startTime=1689608196000)
-  * [Intro to Neural Networks Recording](https://harvard.zoom.us/rec/share/T7l3rQTTIxfHFyybCwU9Tpuu0-ANz55IBAbgGkuqeDoeQcYCnP_nvmZ5IMgXw7iC.gFx4q7NI31RIGwjg?startTime=1689621325000)
-<!-- *2022 material -->
-  <!-- * Video clips -->
-    <!-- * Intro to Neural Networks -->
-    <!-- * Intro to Neural Networks Part II -->
-    <!-- * Intro to Neural Networks Part III -->
-    <!-- * Intro to Neural Networks Part IV -->
-<!-- *2022 material -->
+  
 
 <br>
 
 ## Day 2
 
 * Statistical learning
-  * Least Squares
-  * Logistic Regression
+ * Conceptual Introduction to Data Science
 
   <!-- * Video clips -->
     <!-- * Intro to Least Squares -->
@@ -79,10 +68,12 @@ All of the statistical learning slides can be found [here](https://drive.google.
 
 
 
-* Programming
-  * [Logistic Regression](https://colab.research.google.com/drive/16vnEfQlrttv-uf5k1j-r_z6f0r2_i7Jt?usp=sharing)
-  * [Convolutional Neural Networks Part I](https://colab.research.google.com/drive/1L9zk4h4EfZHKk_xfwEhBJKa4KNnzXLlx#scrollTo=dTNkwHTKhlAf)
+* Colab notebooks
 
+  
+  
+* Recordings
+  
 
 <br>
 
@@ -90,27 +81,28 @@ All of the statistical learning slides can be found [here](https://drive.google.
 
 * Statistical learning
   * Model Evaluation
-  <!-- * Video clips -->
-    <!-- * Train Test Split -->
-    <!-- * Prediction Performance Metrics -->
-    <!-- * Confusion Matrix -->
-    <!-- * ROC -->
-    <!-- * Evaluation -->
 
+<!-- *2022 material -->
+<!--     * [Intro and History of Data Science](https://youtu.be/COsSe5On7D8) -->
+<!--     * [Raw vs processed data](https://youtu.be/0wJHQw_fbOM) -->
+<!--     * [Data science process: Step 0](https://youtu.be/ZObK1C3dN9Q) -->
+<!--     * [Data science process: Steps 1-3](https://youtu.be/7mpfMitAzVA) -->
+<!--     * [Statisical vs Computer Science Perspective](https://youtu.be/UuDUrM2E1vU) -->
+<!--     * [Data science process: Step 4](https://youtu.be/YpnXWPVNS7Y) -->
+<!--     * [Data science pitfalls and data science IRL](https://youtu.be/D_26luygCiM) -->
+<!-- *2022 material -->
 
 * Machine Learning
-  * Computer Vision and Convolution Neural Network
+  * AI Advanced topics
 
-* Programming
-  <!-- * [Principal Component Analysis](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Introduction_to_PCA_MC.ipynb) -->
-  * [Kernel Worksheet](https://docs.google.com/spreadsheets/d/1M6fT3e_J6JvXG-uQ_35t6qFPw-zipmfbE6KGYhxb-gA/edit?usp=share_link)
-  * [Convolutional Neural Networks Part II & III](https://colab.research.google.com/drive/1XjmbNYZpIwd4q7ledI7MH2LB59QHHltr?usp=share_link)
 
-* PiCar
-  * Renaming Images - Each group has to ensure that each of the 120 images has a different file name
-    * [Run this script if renaming images is needed](https://drive.google.com/file/d/1Z2-U4Mf7tioGYvulJH472Bgt-LWQhkmk/view?usp=sharing)
-  * [Labelling Images](https://docs.google.com/document/d/1zrMCOSch2EH9a9xzU4BH-8pfjxpNCTVSjmb7uHtCAAY/edit?usp=sharing)
-<br>
+
+* Colab notebooks
+
+  
+  
+* Recordings
+  
 
 ## Day 4
 
@@ -119,45 +111,33 @@ All of the statistical learning slides can be found [here](https://drive.google.
 
 
 
-
 * Machine Learning
-  * Deep Reinforcement Learning
-<!--   * Video Clips -->
-    * Deep Reinforcement Learning
-    <!-- * [Deep Reinforcement Learning part II] -->
-    * Recurrent Neural Networks and Generative Adversarial Networks
-    <!-- * [Recurrent Neural Networks and Generative Adversarial Networks Part II] -->
+  * Large Language Models
 
 <!-- <!-- general adversial networks --> 
 
-* Programming
-  * Clustering Practice
-  * Transfer Learning with Convolutional Neural Networks
-  
-* PiCar
-  * [Training your image classification](https://colab.research.google.com/drive/1gmAkXdu1d-9Qe0wKDV2N95I7HzX4lc8P?usp=sharing)
+* Colab notebooks
 
-* [Last Year Final Presentation]( https://harvard.zoom.us/rec/share/oovTLliJtQMO2EjTbnCLEyDfk7wwXa79qU86sAQqsOrjxvd_6XoNIO0EmzvuVOwS.ytoqCSBApfrQQX-K?startTime=1657908198000)
+  
+  
+* Recordings
+  
 
 <br>
 
 ## Day 5
-* Finalizing Car Demo and Team Presentation
-* Statistical learning
-   * Health Data Science
+* Research Spotlight
+* Car Demo and Team Presentation
+
+
    
-
-<!-- * Programming -->
-<!--   * [Chest X-ray Classification](https://github.com/jlgrons/CELEHS-DSinA/blob/main/Week_2_Materials/Chest_XRayData.ipynb) -->
-
-* [Student Final Presentations](https://youtu.be/nqdqGy76EBc)
 
 
 <br>
 
-Daily sessions will be recorded and made available here at the conclusion of each day here
+Daily sessions will be recorded and made available here at the conclusion of each day
 
-Please note that the Python notebooks covered each day are subject to changes
+
 
 <br>
 

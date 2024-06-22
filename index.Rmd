@@ -10,10 +10,6 @@ Welcome to Data Science in Action 2024!
 
 All program materials will be added to this website.
 
-Get to know your instructors [here](https://celehs.hms.harvard.edu/camp_instructors.html). 
-
-Get to know your TAs and Program Staff [here](https://celehs.hms.harvard.edu/camp_team.html).
-
 
 [Camp Schedule](https://celehs.hms.harvard.edu/Downloads/Summer_Camp/BostonDataScienceCampSchedule2024.pdf)
 
