@@ -16,7 +16,7 @@ output:
 
 
 * Colab notebooks
-  * [Introduction to Python - Part 1](https://drive.google.com/file/d/1gxCm18bABZISuL03NbW_asP8Dbu1Such/view?usp=sharing)
+  * [Introduction to Python - Part 1](https://drive.google.com/file/d/1AKTscsVwVOLpcC_b5l5vVuMcMb9954u6/view?usp=sharing)
   * [Python Day 1 Exercises 1](https://drive.google.com/file/d/1m-Kda2i3dXnQ-lnR-ee6k5KIfyF9ovpy/view?usp=sharing)
 
 
