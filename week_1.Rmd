@@ -20,6 +20,7 @@ output:
 
   * [Python Day 1 Exercises 1](https://drive.google.com/file/d/1m-Kda2i3dXnQ-lnR-ee6k5KIfyF9ovpy/view?usp=sharing)
 
+  * [Python Day 1 Exercise Answers 1](https://drive.google.com/file/d/1dEnmOOQ8vZQnoiI-KE6ocLpbplXDJaOQ/view?usp=sharing)
 
 * Sections
   * Setting Up Colab
@@ -27,7 +28,7 @@ output:
   * Comparators and Conditionals
   * Data Structures (Lists, Tuples, Dictionaries, Sets)
 
-* Recordings
+* [Recording](https://harvard.zoom.us/rec/share/B2mXUYMJEwtgnzUyS1DSe6sreVt4MTNumK4S5JS38z1NsRC6jqi0gfFfhVzWfh16.E2lUcQofqsVqVByu)
 
   
 
@@ -37,14 +38,17 @@ output:
 ## Day 2  
 
 * Colab notebooks
-  * Introduction to Python - Part 2
+  * [Introduction to Python - Part 2
+  ](https://drive.google.com/file/d/1UD64ZDV24doGhqc-b34ZVeVzQ8H6ts1p/view?usp=sharing)
 * Sections
    * Functions
    * While Loops 
    * For Loops + Range
    * More on Data Structures
    * Exceptions 
-   
+
+* [Python Day 2 Exercises](https://drive.google.com/file/d/1JX_pR0U4UFzj7NBJ46uY-jGLLIeN7XhX/view?usp=sharing)
+
 * Recordings
 
 <br>
