@@ -69,9 +69,7 @@ output:
   * Intro to Matplotlib
   * Coding on Raspberry Pi
 
-* [Python Part 3 Exercises](https://drive.google.com/file/d/1Un6ipxdoE-msIwOOVEImqMyYOYtvTTtX/view?usp=sharing)
 
-* [Python Part 4 Exercises](https://drive.google.com/file/d/1EHxaRtYvJ-k9nJCtJawv1U9KS_b8taQc/view?usp=sharing)
 
 * Recordings
 
