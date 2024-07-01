@@ -49,7 +49,10 @@ output:
 
 * [Python Day 2 Exercises](https://drive.google.com/file/d/1JX_pR0U4UFzj7NBJ46uY-jGLLIeN7XhX/view?usp=sharing)
 
-* Recordings
+* [Python Day 2 Exercise Answers 1](https://drive.google.com/file/d/1MyUBO4xX5IdpfosvpUluCUkghNk76bJm/view?usp=sharing)
+
+
+* [Recording](https://harvard.zoom.us/rec/share/I826K0UeKhlnhxFq2l2Zw71By2iMbjaaTTroX1nThcHsBNixIKpFgf2XeRO1b4Sc.9McSpi5BCJ_4XYxF)
 
 <br>
 
@@ -57,6 +60,8 @@ output:
 
 * Colab notebooks
   * [Introduction to Python - Part 3](https://drive.google.com/file/d/1cjuxTBy1vaUY2JhpYhtrRkDazAbGyI_T/view?usp=sharing)
+  
+  * [Introduction to Python - Part 4](https://drive.google.com/file/d/1JopwcFgFuXbtQWVtfIU3tHXte-YcG3Za/view?usp=sharing)
 * Sections
   * Intro to NumPy
   * Working with Libraries
