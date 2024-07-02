@@ -17,9 +17,8 @@ output:
 ## Day 1
 
 * Statistical learning
-  * Least Squares
-  * Logistic Regression
- 
+  * Conceptual Introduction to Data Science
+  * [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1JH1Hr6LhchmO8jg6kDqlKM5UC5y2TS5-?usp=sharing)
 
 
 <!-- *2022 material -->
@@ -35,15 +34,13 @@ output:
 
 * Machine Learning
   * Conceptual Introduction to Deep Learning and AI
+  * [Intro to Neural Networks Worksheet](https://docs.google.com/document/d/1G-b5UYmzaQaSzdd0rKham-z__88o9tbMm-fk-oWRwsU/edit?usp=sharing)
 
 <!-- *2022 material -->
   <!-- * [Introduction to Deep Learning](https://www.dropbox.com/s/fv7u5d2h6pqekwn/2022-07-11_CELEHS_summerschool.pptx?dl=0) -->
 <!-- *2022 material -->
 
 
-* Colab notebooks
-
-  
   
 * Recordings
   
@@ -53,7 +50,8 @@ output:
 ## Day 2
 
 * Statistical learning
- * Conceptual Introduction to Data Science
+  * Least Squares
+  * Logistic Regression
 
   <!-- * Video clips -->
     <!-- * Intro to Least Squares -->
