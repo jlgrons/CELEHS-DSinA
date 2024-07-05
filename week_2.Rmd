@@ -19,6 +19,7 @@ output:
 * Statistical learning
   * Conceptual Introduction to Data Science
   * [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1JH1Hr6LhchmO8jg6kDqlKM5UC5y2TS5-?usp=sharing)
+  * [Exploratory Data Analysis Answers (EDA)](https://colab.research.google.com/drive/1jDYvpN3ypmiRhykVRLuxDLPsJ7bGwvxA?usp=sharing)
 
 
 <!-- *2022 material -->
@@ -62,11 +63,13 @@ output:
 
 * Machine Learning
   * Introduction to Convolutional Neural Networks
+  * [Kernals](https://docs.google.com/spreadsheets/d/1zFR7_cw-FF0EFO00fJfI3YPL62xjc0Wdzw2_33cL4oo/edit?usp=sharing)
+  * [Intro to CNN Part 1](https://colab.research.google.com/drive/1DCswFTNEzd_4uXQEAQD0Z6bSF5L9uCNM?usp=sharing)
+  
 
 
 
-* Colab notebooks
-* [Intro to CNN Part 1](https://colab.research.google.com/drive/1DCswFTNEzd_4uXQEAQD0Z6bSF5L9uCNM?usp=sharing)
+
   
 * [Recording](https://harvard.zoom.us/rec/share/_VH_gOp2HNgDMH68CWWGUBsfbkisdEBWT9KH0rMYsxamwVP27d4Zn0Mz9GAsTlYt.YHsO_rWc1wF3dryF)
   
