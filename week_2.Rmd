@@ -42,8 +42,7 @@ output:
 
 
   
-* Recordings
-  
+* [Recording](https://harvard.zoom.us/rec/share/0yb8IVy-pb1KKI4_ZeXalgBXB1InqAUHyNxIo2ziPjUO-8qgX7oH6I1GGag5iuiw.9XymAgwQilDKhTjj)
 
 <br>
 
@@ -67,10 +66,9 @@ output:
 
 
 * Colab notebooks
-
+* [Intro to CNN Part 1](https://colab.research.google.com/drive/1DCswFTNEzd_4uXQEAQD0Z6bSF5L9uCNM?usp=sharing)
   
-  
-* Recordings
+* [Recording](https://harvard.zoom.us/rec/share/_VH_gOp2HNgDMH68CWWGUBsfbkisdEBWT9KH0rMYsxamwVP27d4Zn0Mz9GAsTlYt.YHsO_rWc1wF3dryF)
   
 
 <br>
