@@ -10,15 +10,6 @@ navbar:
     - text: "Car Building"
       icon: fa-car 
       href: car_building.html
-    - text: "Week 1: Programming"
-      icon: fa-mouse-pointer
-      href: week_1.html
-    - text: "Week 2: Statistics & ML"
-      icon: fa-dice
-      href: week_2.html
-    - text: "Speakers"
-      icon: fa-user
-      href: speakers.html
     - text: "Resources"
       icon: fa-rss
       href: resources.html
