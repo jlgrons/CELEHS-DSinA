@@ -13,6 +13,9 @@ navbar:
     - text: "Resources"
       icon: fa-rss
       href: resources.html
+    - text: "Lecture Notes"
+      icon: fa-book
+      href: lectures.html
   right:
     - text: "GitHub"
       icon: fa-github
